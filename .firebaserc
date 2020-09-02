@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "preguntas-seguridad": {
+      "hosting": {
+        "preguntas-seguridad": [
+          "preguntas-seguridad"
+        ]
+      }
+    }
+  }
+}
